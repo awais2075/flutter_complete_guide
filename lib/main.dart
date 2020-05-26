@@ -1,7 +1,9 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_complete_guide/gmail_sign_in/sign_in_page.dart';
+
+import 'github_sign_in/github_sign_in.dart';
+
 
 void main() => runApp(MyApp());
 
