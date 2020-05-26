@@ -2,7 +2,8 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import 'github_sign_in/github_sign_in.dart';
+import 'gmail_sign_in/sign_in_page.dart';
+
 
 
 void main() => runApp(MyApp());
