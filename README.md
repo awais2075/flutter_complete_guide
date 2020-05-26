@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Gmail Sign In
-![](https://github.com/awais2075/flutter_complete_guide/blob/master/gifs/gmail_sign_in.gif)
+![](https://www.dropbox.com/s/qj44isgn50870sq/gmail_sign_in.mp4?dl=0)
